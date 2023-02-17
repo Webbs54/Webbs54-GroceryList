@@ -70,7 +70,6 @@ public class GroceryDAO {
         }catch(SQLException e){
             e.printStackTrace();
         }
-        Mini Project: Grocery List
         
     }
 
